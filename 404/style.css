@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: "Droid Serif","Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "STHeiti";
+	padding: 0px;
+	margin: 0px;
+	min-width: 900px;
+	background-color:#FFCFE1;
+	background-repeat:repeat-x;
+	background-position:bottom;
+	background-attachment:fixed;
+}
+
+#Top {
+	width:800px;
+	margin:1% auto 5px auto;
+	text-align:left;
+}
+
+#Root {
+	width: 800px;
+	margin: 0px auto 0px auto;
+	background-color: #fff;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	behavior: url(border-radius.htc);
+	border: 2px solid rgba(0,0,0,0.05);
+	padding: 10px;
+	font-size: 15px;
+	-webkit-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.6);/*webkit*/
+	-moz-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.6);/*firefox*/
+	box-shadow:0px 1px 10px rgba(0, 0, 0, 0.6);/*opera或ie9*/
+	font-size:36px;
+    filter: progid:DXImageTransform.Microsoft.Shadow(rgba(0, 0, 0, 0.6), Direction=135, Strength=5);/*for ie6,7,8*/
+}
+#Root2 {
+	width: 800px;
+	margin: 0px auto 0px auto;
+	background-color: #fff;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid rgba(0,0,0,0.05);
+	padding: 10px;
+	font-size: 10px;
+	-webkit-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.6);/*webkit*/
+	-moz-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.6);/*firefox*/
+	box-shadow:0px 1px 10px rgba(0, 0, 0, 0.6);/*opera或ie9*/
+	font-size:36px;
+    filter: progid:DXImageTransform.Microsoft.Shadow(rgba(0, 0, 0, 0.6), Direction=135, Strength=5);/*for ie6,7,8*/
+}
+#Root3 {
+	width: 800px;
+	margin: 0px auto 0px auto;
+	background-color: #fff;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid rgba(0,0,0,0.05);
+	padding: 10px;
+	font-size: 10px;
+	-webkit-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.6);/*webkit*/
+	-moz-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.6);/*firefox*/
+	box-shadow:0px 1px 10px rgba(0, 0, 0, 0.6);/*opera或ie9*/
+	font-size:36px;
+    filter: progid:DXImageTransform.Microsoft.Shadow(rgba(0, 0, 0, 0.6), Direction=135, Strength=5);/*for ie6,7,8*/
+	float:right;
+	height:60px;
+}
+#Root4 {
+	width: 350px;
+	margin: 0px auto 0px auto;
+	background-color: #fff;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid rgba(0,0,0,0.05);
+	padding: 10px;
+	font-size: 10px;
+	-webkit-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.6);/*webkit*/
+	-moz-box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.6);/*firefox*/
+	box-shadow:0px 1px 10px rgba(0, 0, 0, 0.6);/*opera或ie9*/
+	font-size:36px;
+    filter: progid:DXImageTransform.Microsoft.Shadow(rgba(0, 0, 0, 0.6), Direction=135, Strength=5);/*for ie6,7,8*/
+	float:left;
+	height:60px;
+}
+
+
+#Bottom {
+	width: 800px;
+	margin: 0px auto 20px auto;
+	font-size: 10px;
+	color: #DCE9EB;
+	padding: 5px 5px 0px 10px;
+	text-align: right;
+}
+#Bottom2 {
+	width: 800px;
+	margin: 0px auto 5px auto;
+	font-size: 10px;
+	color: #DCE9EB;
+	padding: 5px 10px 0px 10px;
+	text-align: right;
+}
+#Bottom3 {
+	width: 820px;
+	margin: 0px auto 5px auto;
+	padding: 5px 10px 0px 10px;
+	text-align: right;
+	height:100px;
+}
+
+
+#img_footer	{ padding-bottom:1%;  font-size:10px; color:#888; text-align:center;}
